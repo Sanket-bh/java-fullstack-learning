@@ -8,6 +8,8 @@ It focuses on understanding how backend APIs work for a simple billing system.
 - Handling HTTP requests (GET, POST, PUT, DELETE)
 - Basic CRUD operations
 - Structuring a Spring Boot project using controller and service layers
+- Connecting REST APIs with a database for storing billing information
+
 
 ### Project Structure
 - Controller layer for handling API requests
@@ -19,6 +21,7 @@ It focuses on understanding how backend APIs work for a simple billing system.
 - Java
 - Spring Boot
 - REST APIs
+- Database (basic connectivity)
 
 ### Purpose
 This project is part of my hands-on practice while learning backend development
